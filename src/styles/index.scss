@@ -76,7 +76,7 @@ main {
     color: #34568b;
   }
 
-  &:hover{
+  &:hover {
     transform: scale(1.2);
   }
   &__code {
@@ -112,6 +112,7 @@ main {
       background-color: #fff;
       border: 1px $blue-accent solid;
       box-sizing: border-box;
+      transition:  300ms;
     }
   }
 

@@ -28,7 +28,7 @@ body {
   display: flex;
   justify-content: space-between;
   align-items: center;
-    border-bottom: #f3f3f3 1px solid;
+  border-bottom: #f3f3f3 1px solid;
   &__logo-link {
     display: inline-block;
   }
@@ -74,7 +74,7 @@ body {
     align-items: center;
     height: 100%;
     position: relative;
-    transition: color 0.2s ease;
+    transition: color 300ms ease;
   }
 
   &__link:hover {
