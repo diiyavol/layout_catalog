@@ -78,6 +78,7 @@ body {
   }
 
   &__link:hover {
+    transition: color 300ms ease;
     color: var(--text-color);
   }
 
